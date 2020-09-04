@@ -58,7 +58,7 @@
 		"dotenv": "^8.0",
 		"fs-jetpack": "^2.0",
 		"gh-latest-release": "^1.0.0",
-		"marked": "^0.6.2",
+		"marked": "^0.7.0",
 		"request": "^2.88.0"
 	}
 }
